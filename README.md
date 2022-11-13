@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
   - 🐱‍🏍 I'm familiar with Django, Tkinter, C#(UNity), RestApi, Linux .
   - 💞️ I’m looking to collaborate on My Upcomming Projects .
   - 📫 How to reach me 
-            * Twitter: https://twitter.com/sifodz18      
+            - Twitter: https://twitter.com/sifodz18      

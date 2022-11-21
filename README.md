@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👀 I’m interested in Web, Desktop Apps and Game development .<br>🌱 I’m currently learning Pyqt6, C, C++ .<br>🐱‍🏍 I'm familiar with Django, Tkinter, C#(UNity), RestApi, Linux .<br>💞️ I’m looking to collaborate on My Upcomming Projects .<br>📫 How to reach me - Twitter: https://twitter.com/sifodz18<br>
+<br>👀 I’m interested in Web, Desktop Apps and Game development .<br>🌱 I’m currently learning Pyqt6, C, C++ .<br>🐱‍🏍 I'm familiar with Django, Tkinter, C#(UNity), RestApi, Linux .<br>💞️ I'm looking to collaborate with new Projects .<br>📫 How to reach me - Twitter: https://twitter.com/sifodz18<br>
 
 
 ## 🌐 Socials:

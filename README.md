@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salmi Sifeddine</h1>
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h3 align="center">I am a junior Softwares Developer .</h3>
 <div align="center">
     <div style="text-align: left;">

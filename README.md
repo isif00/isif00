@@ -5,7 +5,7 @@
 <h3 align="center">I am a junior Softwares Developer .</h3>
 <div align="center">
     <div style="text-align: left;">
-        <p>🌱 I’m currently learning <strong>Flutter and planning to learn AI</strong></p>
+        <p>🌱 I’m currently learning <strong>Flutter and planning to learn Blockchain technology</strong></p>
         <p>💬 Ask me about <strong>Linux, Django, Unity, Git ...</strong></p>
         <p>📫 How to reach me <strong>sifodev@gmail.com</strong></p>
         <p>⚡ Fun fact <strong>I love cats</strong></p>
